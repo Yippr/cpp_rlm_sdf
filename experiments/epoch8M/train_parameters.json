@@ -1,0 +1,5 @@
+{
+  "checkpoint": "/aidata/Yinpr/rl_cpp/rl-cpp-main/rl-cpp-main/experiments/2024-10-01_202009/agent.zip",
+  "steps": 8000000,
+  "logdir": null
+}
