@@ -1,7 +1,5 @@
 # RL Coverage Path Planning
 
-Code implementation for the paper [__Learning Coverage Paths in Unknown Environments with Deep Reinforcement Learning, arXiv, 2023__](https://arxiv.org/pdf/2306.16978.pdf).
-
 Lawn mowing | Exploration
 :-------------------------:|:-------------------------:
 <img src="figures/mowing_path.png" alt="mowing path" height="300" /> | <img src="figures/exploration_path.png" alt="exploration path" height="300" />
